@@ -384,18 +384,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DungeonLevel1
   map:
-  - XXXXXXXXXXXX
-  - X          X
-  - XX XX  XX XX
-  - XX XX XXX XX
-  - XX  XXX    X
-  - XXX X X XX X
-  - X     X  X X
-  - X XXXXXXXX X
-  - X      X   X
-  - XXX XX    XX
-  - X    X XX  X
-  - XXXXXXXXXXXX
+  - XXXXXXXXXXXXX
+  - X          XX
+  - XX XX  XX XXX
+  - XX XX XXX XXX
+  - XX  XXX    XX
+  - XXX X X XX XX
+  - X     X  X XX
+  - X XXXXXXXX XX
+  - X      X   XX
+  - XXX XX    XXX
+  - X    X XX  XX
+  - XXXXXXXXXXXXX
   wallPrefab: {fileID: 7490682531560147754, guid: d649996605a1a124baa678b18bf50185, type: 3}
   floorPrefab: {fileID: 1698082915292450329, guid: f4dd45b322cde794ab5081a414388f59, type: 3}
   ceilingPrefab: {fileID: 1913780040800901279, guid: 4c5514f1fb1a1c64f9d9bc4a2d6273d5, type: 3}

@@ -2,19 +2,19 @@ using UnityEngine;
 
 public class DungeonLevel1 : MonoBehaviour
 {
-    public string[] map = new[] {
-        "XXXXXXXXXXXX",
-        "X          X",
-        "XX XX  XX XX",
-        "XX XX XXX XX",
-        "XX  XXX    X",
-        "XXX X X XX X",
-        "X     X  X X",
-        "X XXXXXXXX X",
-        "X      X   X",
-        "XXX XX    XX",
-        "X    X XX  X",
-        "XXXXXXXXXXXX",
+    private string[] map = new[] {
+        "XXXXXXXXXXXXXXXXXXX",
+        "X          XX XXXXX",
+        "XX        XXX XXXXX",
+        "XX        XXX XXXXX",
+        "XX  XXX    XX X X X",
+        "XXX X X XX XX X X X",
+        "X     X  X XX X X X",
+        "X XXXXXXXX XX     X",
+        "X      X   XX     X",
+        "XXX XX    XXX     X",
+        "X    X XX         X",
+        "XXXXXXXXXXXXXXXXXXX",
     };
 
     [Header("Prefabs")]
